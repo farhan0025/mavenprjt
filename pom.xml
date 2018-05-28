@@ -1,0 +1,6 @@
+ name: Install nginx
+  hosts: host.name.ip
+  become: true
+   name: Install nginx
+  hosts: host.name.ip
+  become: true
